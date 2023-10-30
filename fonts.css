@@ -1,0 +1,36 @@
+@font-face {
+    src: url(./fonts/PaytoneOne-Regular.ttf);
+    font-family: "Paytone One";
+    font-weight: 400;
+}
+
+@font-face {
+    src: url(./fonts/Peralta-Regular.ttf);
+    font-family: "Peralta";
+    font-weight: 400;
+}
+@font-face {
+    src: url(./fonts/Outfit-Regular.ttf);
+    font-family: "Outfit";
+    font-weight: 400;
+}
+@font-face {
+    src: url(./fonts/Outfit-Medium.ttf);
+    font-family: "Outfit";
+    font-weight: 500;
+}
+@font-face {
+    src: url(./fonts/Outfit-SemiBold.ttf);
+    font-family: "Outfit";
+    font-weight: 600;
+}
+@font-face {
+    src: url(./fonts/Outfit-Bold.ttf);
+    font-family: "Outfit";
+    font-weight: 700;
+}
+@font-face {
+    src: url(./fonts/Outfit-ExtraBold.ttf);
+    font-family: "Outfit";
+    font-weight: 800;
+}
